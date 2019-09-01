@@ -3,9 +3,5 @@ Name            : Vinay kumar kovelakuntla
 Contact Details : vinaykovelakuntla@gmail.com
 
 Designation     : Product Owner
-Name            : Veera Sai Kiran Kommoju
-Contact Details : saikiran.2511@gmail.com
-
-Designation     : Product Owner
 Name            : 
 Contact Details : 
